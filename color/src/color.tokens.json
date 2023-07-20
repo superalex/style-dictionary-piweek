@@ -1,0 +1,36 @@
+{
+  "color": {
+    "blue": {
+      "base": {
+        "value": "#41C2BF"
+      },
+      "dark": {
+        "value": "#046D6C"
+      },
+      "darker": {
+        "value": "#03403e"
+      },
+      "light": {
+        "value": "#AFD3CE"
+      },
+      "lightish": {
+        "value": "#EFF7FA"
+      }
+    },
+    "white": {
+      "value": "#ffffff"
+    },
+    "black": {
+      "value": "#000000"
+    },
+    "gray": {
+      "value": "#666666"
+    },
+    "grayer": {
+      "value": "#A0A0A0"
+    },
+    "grayish": {
+      "value": "#EBECEE"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@backlight-dev/comfort-punish-s24u4.style-dictionary-lkawiu9v",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve avyZVc7rX0lF1n8k9ani --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.0"
+  }
+}
